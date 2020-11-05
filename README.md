@@ -1,2 +1,3 @@
 # 3DMuseum
-Thesis Work t
+New Repository 
+Showcasing Thesis Work
